@@ -1,0 +1,23 @@
+[
+  { "id": 1, "productName": "iPhone 13", "category": "Electronics", "price": 65000 },
+  { "id": 2, "productName": "Samsung Smart TV", "category": "Electronics", "price": 50000 },
+  { "id": 3, "productName": "Wooden Chair", "category": "Furniture", "price": 3500 },
+  { "id": 4, "productName": "Office Table", "category": "Furniture", "price": 12000 },
+  { "id": 5, "productName": "Nike Shoes", "category": "Fashion", "price": 4500 },
+  { "id": 6, "productName": "Adidas T-shirt", "category": "Fashion", "price": 1500 },
+  { "id": 7, "productName": "Dell Laptop", "category": "Electronics", "price": 70000 },
+  { "id": 8, "productName": "HP Laptop", "category": "Electronics", "price": 65000 },
+  { "id": 9, "productName": "Sofa Set", "category": "Furniture", "price": 30000 },
+  { "id": 10, "productName": "Smart Watch", "category": "Electronics", "price": 8000 },
+
+  { "id": 11, "productName": "Bluetooth Speaker", "category": "Electronics", "price": 3000 },
+  { "id": 12, "productName": "Gaming Mouse", "category": "Electronics", "price": 1500 },
+  { "id": 13, "productName": "Dining Table", "category": "Furniture", "price": 25000 },
+  { "id": 14, "productName": "Wardrobe", "category": "Furniture", "price": 40000 },
+  { "id": 15, "productName": "Puma Jacket", "category": "Fashion", "price": 5000 },
+  { "id": 16, "productName": "Levi's Jeans", "category": "Fashion", "price": 3500 },
+  { "id": 17, "productName": "MacBook Air", "category": "Electronics", "price": 110000 },
+  { "id": 18, "productName": "AirPods Pro", "category": "Electronics", "price": 24000 },
+  { "id": 19, "productName": "Coffee Table", "category": "Furniture", "price": 8000 },
+  { "id": 20, "productName": "Formal Shirt", "category": "Fashion", "price": 1200 }
+]
