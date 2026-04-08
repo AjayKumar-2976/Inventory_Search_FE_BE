@@ -68,31 +68,16 @@ npm run dev
 /search?q=laptop&category=Electronics&minPrice=50000&maxPrice=100000
 ```
 
----
 
-## Optimization Idea
-
-For large datasets, instead of using a static JSON file, we can:
-
-* Use a database (MongoDB / SQL)
-* Add indexing on fields like `productName` and `category`
-* Implement pagination for better performance
-
----
-
-## Screenshots
-
-(Add your screenshots here)
 
 ---
 
 ##  Demo Video
 
-(Add your Google Drive link here)
 
 ---
 
 ## Live Links
 
-* Frontend: https://your-frontend.vercel.app
+* Frontend: https://inventory-search-fe-be-zsmo.vercel.app/
 * Backend: https://your-backend.onrender.com
